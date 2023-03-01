@@ -1,0 +1,7 @@
+{
+  "baseUDPPort": 16384,
+  "clientIp": "0.0.0.0",
+  "serverIp": "0.0.0.0",
+  "tcpServerPort": 12345,
+  "udpServerPort": 2345
+}
