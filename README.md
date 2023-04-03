@@ -1,5 +1,6 @@
 # TankBattle
-A simple python network game
+
+A simple python network game using UDP sockets to communicate tank position to each player
 
 ## Requirements
 pip install pygame
